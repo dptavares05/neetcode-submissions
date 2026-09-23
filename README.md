@@ -4,6 +4,8 @@ Personal repository tracking my solutions and progress through the **[Blind 75](
 
 The goal of this repository is to systematically master core algorithmic patterns, optimize time/space complexities, and maintain a documented archive of my technical interview preparation.
 
+All solutions are synced directly from my **[NeetCode Profile](https://neetcode.io/user/CeruleanSlime308)**.
+
 ---
 
 ##  Objective & Methodology
